@@ -1,0 +1,20 @@
+CREATE DATABASE d1
+GO
+
+
+USE d1
+GO
+
+
+CREATE TABLE t1 
+(
+a1 int
+)
+
+SELECT * FROM t1
+
+
+INSERT INTO t1 VALUES (23);
+
+
+
